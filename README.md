@@ -10,5 +10,7 @@ To start the containers, pull the repo and start with docker-compose:
 `$ docker-compose up -d`
 
 Credentials to log into Kibana(http://127.0.0.1:5601/)
+
 `username: elastic`
+
 `password: password1234`
